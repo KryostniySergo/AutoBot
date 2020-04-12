@@ -1,0 +1,9 @@
+E:\Эээээксперементы\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+E:\Эээээксперементы\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+E:\Эээээксперементы\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+E:\Эээээксперементы\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+E:\Эээээксперементы\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+E:\Эээээксперементы\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\Эээээксперементы\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+E:\Эээээксперементы\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
+E:\Эээээксперементы\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csprojAssemblyReference.cache
